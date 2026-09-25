@@ -1,2 +1,2 @@
-# suite_Rhea
-Test Suite
+# testSuite_Rhea 2026
+should be minimal

@@ -24,3 +24,14 @@ $   git config --global user.email "pluto64@e-mail.de"
 $   git config --global user.name "John Doe"
 $   git config --global user.name "John Doe"
 $   git commit -m "update"
+
++   execute bash script
+    1)  make it exe 
+        $   chmod +x myscript.bsh
+        $   ./hello.bsh 
+    2)  via command interpreter - no exeFlag needed
+        $   bash myscript.bsh
+
+
+
+    

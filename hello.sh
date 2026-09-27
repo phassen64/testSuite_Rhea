@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo Hello, Bash!
+echo Hello, Any Shell Script!
 echo "home=$HOME"

@@ -9,3 +9,12 @@
 
 +   created.
 +   add GitHub addition
+
+### !date:<2026-09-27>:So 
+
++   cloned by d13x-385H
+
++   cloning 
+$   git clone https://github.com/phassen64/testSuite_Rhea.git $v_USR_docRoot/repository/testSu
+
+

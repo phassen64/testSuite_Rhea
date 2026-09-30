@@ -6,3 +6,4 @@ echo "home=$HOME"
 echo endOfMyScript.
 
 # end text1.
+# by vmh385

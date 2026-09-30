@@ -38,4 +38,9 @@ $   git commit -m "update"
 +   try VsCode
 +   an anderer Versuch
 
++   Peter & Harvey
++   und andere Freunde
++   und noch einmal weitere
 
+
++   ich gebe nur etwas ein

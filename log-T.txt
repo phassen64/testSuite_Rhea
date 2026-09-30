@@ -35,16 +35,4 @@ $   git commit -m "update"
 
 ### !date:<2026-09-30>:Mo
 
-+   try VsCode
-+   an anderer Versuch
-
-+   Peter & Harvey
-+   und andere Freunde
-+   und noch einmal weitere
-
-
-+   ich gebe nur etwas ein
-+   Musik hören im Radio
-+   ein finaler Satz.
-
-+   lachen und tanzen.
++   test auch in vmH385

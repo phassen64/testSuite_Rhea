@@ -10,11 +10,11 @@
 +   created.
 +   add GitHub addition
 
-### !date:<2026-09-27>:So 
+### !date:<2026-09-27>:So
 
 +   cloned by d13x-385H
 
-+   cloning 
++   cloning
 $   git clone https://github.com/phassen64/testSuite_Rhea.git $v_USR_docRoot/repository/testSu
 
 +   gir changes
@@ -26,12 +26,16 @@ $   git config --global user.name "John Doe"
 $   git commit -m "update"
 
 +   execute bash script
-    1)  make it exe 
+    1)  make it exe
         $   chmod +x myscript.bsh
-        $   ./hello.bsh 
+        $   ./hello.bsh
     2)  via command interpreter - no exeFlag needed
         $   bash myscript.bsh
 
 
+### !date:<2026-09-30>:Mo
 
-    
++   try VsCode
++   an anderer Versuch
+
+
